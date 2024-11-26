@@ -9,7 +9,7 @@ Trained models will be shared here
 ## NAT_2021_L-test
 <img src="table/tab2.png" width="500"/>
 
-## Other datasets
+## Other datasets (without adaptation)
 <img src="table/tab3.png" width="500"/>
 
 

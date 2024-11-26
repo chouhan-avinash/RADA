@@ -3,11 +3,11 @@
 Trained models will be shared here 
 
 # Quantitiave Results
-<img src="table/tab1" width="1000"/>
+<img src="table/tab1.png" width="1000"/>
 
-<img src="table/tab2" width="1000"/>
+<img src="table/tab2.png" width="1000"/>
 
-<img src="table/tab3" width="1000"/>
+<img src="table/tab3.png" width="1000"/>
 
 
 # Results available

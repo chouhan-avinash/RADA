@@ -2,7 +2,7 @@
 
 Trained models will be shared here 
 
-# Quantitiave Results
+# Numerical Results
 <img src="table/tab1.png" width="500"/>
 
 <img src="table/tab2.png" width="500"/>

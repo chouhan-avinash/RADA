@@ -22,15 +22,16 @@ Trained models will be shared here
 
 ```
 @InProceedings{10.1007/978-3-031-78192-6_21,
-author="Chouhan, Avinash and Chandak, Mayank and Sur, Arijit and Chutia, Dibyajyoti and Aggarwal, Shiv Prasad",
-editor="Antonacopoulos, Apostolos and Chaudhuri, Subhasis and Chellappa, Rama and Liu, Cheng-Lin and Bhattacharya, Saumik and Pal, Umapada",
-title="RADA: Reconstruction Assisted Domain Adaptation for Nighttime Aerial Tracking",
-booktitle="Pattern Recognition",
-year="2025",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="315--330",
-isbn="978-3-031-78192-6"
+author = "Chouhan, Avinash and Chandak, Mayank and Sur, Arijit and Chutia, Dibyajyoti and Aggarwal, Shiv Prasad",
+editor = "Antonacopoulos, Apostolos and Chaudhuri, Subhasis and Chellappa, Rama and Liu, Cheng-Lin and Bhattacharya, Saumik and Pal, Umapada",
+title = "RADA: Reconstruction Assisted Domain Adaptation for Nighttime Aerial Tracking",
+booktitle = "Pattern Recognition",
+year = "2025",
+publisher = "Springer Nature Switzerland",
+address = "Cham",
+pages = "315--330",
+ISBN = "978-3-031-78192-6",
+doi = "https://doi.org/10.1007/978-3-031-78192-6_21"
 }
 
 
